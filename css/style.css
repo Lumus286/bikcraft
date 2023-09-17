@@ -9,6 +9,7 @@
 
 /*Bicicletas*/
 @import url(bicicletas/bicicletas-lista.css);
+@import url(bicicletas/bicicletas.css);
 
 /*Home CSS*/
 @import url(home/introducao.css);
