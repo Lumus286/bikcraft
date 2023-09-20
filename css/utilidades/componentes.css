@@ -17,10 +17,12 @@
     color: var(--cor-p5);
     font: 600 1.125rem/1.3 'Poppins', sans-serif;
     max-width: max-content;
+    border-style: none;
 }
 
 .botao:hover {
     background: linear-gradient(#ffb60d, #e59317);
+    cursor: pointer;
 }
 
 .botao.secundario {
