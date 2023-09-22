@@ -24,10 +24,11 @@
 @import url(./home/seguros.css);
 @import url(./global/footer.css);
 
-/*Termos*/
+/*Contato*/
 
 @import url(./contato/contato.css);
 @import url(./contato/lojas.css);
+@import url(./orcamento/orcamento.css);
 
 /*Termos*/
 
